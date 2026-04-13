@@ -1,2 +1,2 @@
 // secret.js
-export const connectionString = "mongodb+srv://<user>:<password>@cluster0.jouw-url.mongodb.net/?retryWrites=true&w=majority";
+export const connectionString = "mongodb+srv://malikhaidfelix_db_user:HIER_JOUW_WACHTWOORD@scripting.kivnqwp.mongodb.net/?retryWrites=true&w=majority&appName=scripting";
