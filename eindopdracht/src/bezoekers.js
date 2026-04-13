@@ -19,7 +19,7 @@ export const getBezoekers = async (req, res) => {
 };
 
 // CREATE: Voeg een nieuwe bezoeker toe (POST)
-export const addBezoeker = async (req, res) => {
+export const addBezoeker = async (req, res)=> {
     try {
         await client.connect();
         const collection = client.db(dbName).collection(collectionName);
